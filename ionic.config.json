@@ -1,0 +1,7 @@
+{
+  "name": "scrollbar-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
